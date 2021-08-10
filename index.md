@@ -1,8 +1,7 @@
-## Welcome！
+## About Me
 
-You can use the [editor on GitHub](https://github.com/weiguangzhao/weiguangzhao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, I am Weiguang.Zhao.
+I am currently a research master in pattern recognition of Liverpool University. I have worked in DJI for two years. I am familiar with the C/C++/python programming language, Linux, and Ros system. Thank you for your attention.
 
 ### Markdown
 
