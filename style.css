@@ -136,6 +136,9 @@ div#menu > ul li:hover {
     color: #000000;
 }
 
+#a li{ float: left;
+display: inline-block;}
+
 .mainText {
     /*width: 1243px;*/
     font-size: 110%;
