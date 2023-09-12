@@ -4,27 +4,31 @@ $("#pub").hide();
 $("#exp").hide();
 $("#pro").hide();
 $("#awa").hide();
+$("#pat").hide();
 
 $("#aboutButton").click(function () {
     $("#about").show("slow");
     $("#pub").hide("slow");
     $("#exp").hide("slow");
-    $("#pro").hide("slow");
     $("#awa").hide("slow");
+    $("#pro").hide("slow");
+    $("#pat").hide("slow");
 });
 $("#pubButton").click(function () {
     $("#about").hide("slow");
     $("#exp").hide("slow");
     $("#pro").hide("slow");
-    $("#pub").show("slow");
     $("#awa").hide("slow");
+    $("#pub").show("slow");
+    $("#pat").hide("slow");
 });
 $("#expButton").click(function () {
     $("#about").hide("slow");
     $("#pub").hide("slow");
-    $("#pro").hide("slow");
     $("#exp").show("slow");
     $("#awa").hide("slow");
+    $("#pro").hide("slow");
+    $("#pat").hide("slow");
 });
 $("#proButton").click(function () {
     $("#about").hide("slow");
@@ -32,6 +36,7 @@ $("#proButton").click(function () {
     $("#exp").hide("slow");
     $("#pro").show("slow");
     $("#awa").hide("slow");
+    $("#pat").hide("slow");
 });
 
 $("#awaButton").click(function () {
@@ -40,7 +45,19 @@ $("#awaButton").click(function () {
     $("#exp").hide("slow");
     $("#pro").hide("slow");
     $("#awa").show("slow");
+    $("#pat").hide("slow");
 });
+
+
+$("#patButton").click(function () {
+    $("#about").hide("slow");
+    $("#pub").hide("slow");
+    $("#exp").hide("slow");
+    $("#pro").hide("slow");
+    $("#awa").hide("slow");
+    $("#pat").show("slow");
+});
+
 $("div#menu > ul li").mouseover(function () {
     $(this).animate({
         color: fontColor,
