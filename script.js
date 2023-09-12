@@ -1,10 +1,11 @@
 var fontColor = 'black';
 
+$("#pat").hide();
 $("#pub").hide();
 $("#exp").hide();
 $("#pro").hide();
 $("#awa").hide();
-$("#pat").hide();
+
 
 $("#aboutButton").click(function () {
     $("#about").show("slow");
@@ -54,8 +55,8 @@ $("#patButton").click(function () {
     $("#pub").hide("slow");
     $("#exp").hide("slow");
     $("#pro").hide("slow");
-    $("#awa").hide("slow");
     $("#pat").show("slow");
+    $("#awa").hide("slow");
 });
 
 $("div#menu > ul li").mouseover(function () {
