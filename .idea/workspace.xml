@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74f3d9b6-94ae-4b0c-a2c1-27ec59c0003c" name="Default Changelist" comment="add jpg">
+    <list default="true" id="74f3d9b6-94ae-4b0c-a2c1-27ec59c0003c" name="Default Changelist" comment="update paper">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
       <recent name="C:\Users\macal\Desktop\project\weiguangzhao.github.io" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -118,6 +119,10 @@
       <workItem from="1704872344071" duration="314000" />
       <workItem from="1704872669964" duration="109000" />
       <workItem from="1705054965758" duration="1290000" />
+      <workItem from="1705896021788" duration="118000" />
+      <workItem from="1706101077728" duration="752000" />
+      <workItem from="1710573199227" duration="49000" />
+      <workItem from="1713269444931" duration="1874000" />
     </task>
     <task id="LOCAL-00001" summary="update html">
       <created>1635258446161</created>
@@ -427,7 +432,35 @@
       <option name="project" value="LOCAL" />
       <updated>1705055618915</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="update authot list">
+      <created>1705896110636</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1705896110636</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Remove ICONIP">
+      <created>1706101116358</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1706101116358</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Neural Networks">
+      <created>1710573231452</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1710573231452</updated>
+    </task>
+    <task id="LOCAL-00048" summary="update paper">
+      <created>1713274690248</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1713274690248</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -488,10 +521,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="change height" />
-    <MESSAGE value="add bachelor degree and earth map" />
-    <MESSAGE value="change width" />
-    <MESSAGE value="change map size" />
     <MESSAGE value="add code link" />
     <MESSAGE value="add Dku" />
     <MESSAGE value="add pbnet" />
@@ -513,7 +542,11 @@
     <MESSAGE value="add map" />
     <MESSAGE value="add TA" />
     <MESSAGE value="add jpg" />
-    <option name="LAST_COMMIT_MESSAGE" value="add jpg" />
+    <MESSAGE value="update authot list" />
+    <MESSAGE value="Remove ICONIP" />
+    <MESSAGE value="Neural Networks" />
+    <MESSAGE value="update paper" />
+    <option name="LAST_COMMIT_MESSAGE" value="update paper" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
