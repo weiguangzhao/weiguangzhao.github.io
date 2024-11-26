@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74f3d9b6-94ae-4b0c-a2c1-27ec59c0003c" name="Default Changelist" comment="update paper and information">
+    <list default="true" id="74f3d9b6-94ae-4b0c-a2c1-27ec59c0003c" name="Default Changelist" comment="add review service">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +58,8 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../compare/10_200_13_85/PointCloudPDF" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -123,48 +123,17 @@
       <workItem from="1710573199227" duration="49000" />
       <workItem from="1713269444931" duration="1874000" />
       <workItem from="1726589807424" duration="21000" />
-    </task>
-    <task id="LOCAL-00001" summary="update html">
-      <created>1635258446161</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1635258446161</updated>
-    </task>
-    <task id="LOCAL-00002" summary="update html">
-      <created>1635258458998</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1635258458998</updated>
-    </task>
-    <task id="LOCAL-00003" summary="remove map">
-      <created>1635259092840</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1635259092840</updated>
-    </task>
-    <task id="LOCAL-00004" summary="%style">
-      <created>1635259863724</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1635259863724</updated>
-    </task>
-    <task id="LOCAL-00005" summary="%style mobile">
-      <created>1635260548376</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1635260548376</updated>
-    </task>
-    <task id="LOCAL-00006" summary="%style mobile">
-      <created>1635260760465</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1635260760465</updated>
+      <workItem from="1726590041639" duration="52000" />
+      <workItem from="1726737677899" duration="595000" />
+      <workItem from="1726802860891" duration="659000" />
+      <workItem from="1727332765923" duration="85000" />
+      <workItem from="1727358210794" duration="1000" />
+      <workItem from="1727700798407" duration="1366000" />
+      <workItem from="1728290646852" duration="1204000" />
+      <workItem from="1728651259632" duration="1699000" />
+      <workItem from="1728735681003" duration="55000" />
+      <workItem from="1732240855279" duration="3773000" />
+      <workItem from="1732452638647" duration="567000" />
     </task>
     <task id="LOCAL-00007" summary="University of Liverpool">
       <created>1635404717626</created>
@@ -467,7 +436,49 @@
       <option name="project" value="LOCAL" />
       <updated>1726589500242</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="update paper and information">
+      <created>1726590050935</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1726590050935</updated>
+    </task>
+    <task id="LOCAL-00051" summary="update paper and information">
+      <created>1727332805036</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1727332805037</updated>
+    </task>
+    <task id="LOCAL-00052" summary="NN">
+      <created>1727701570819</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1727701570819</updated>
+    </task>
+    <task id="LOCAL-00053" summary="add review service of icra">
+      <created>1728291246765</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1728291246765</updated>
+    </task>
+    <task id="LOCAL-00054" summary="add NN'24">
+      <created>1728652912135</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1728652912135</updated>
+    </task>
+    <task id="LOCAL-00055" summary="add review service">
+      <created>1732241806161</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1732241806161</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -528,10 +539,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Dku" />
-    <MESSAGE value="add pbnet" />
-    <MESSAGE value="add cvpr2023 submitted" />
-    <MESSAGE value="add Cognitive Computation" />
     <MESSAGE value="fix error: time" />
     <MESSAGE value="add 1st pace on scannetv2 challenge" />
     <MESSAGE value="add application video of PBNet" />
@@ -553,7 +560,11 @@
     <MESSAGE value="Neural Networks" />
     <MESSAGE value="update paper" />
     <MESSAGE value="update paper and information" />
-    <option name="LAST_COMMIT_MESSAGE" value="update paper and information" />
+    <MESSAGE value="NN" />
+    <MESSAGE value="add review service of icra" />
+    <MESSAGE value="add NN'24" />
+    <MESSAGE value="add review service" />
+    <option name="LAST_COMMIT_MESSAGE" value="add review service" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
