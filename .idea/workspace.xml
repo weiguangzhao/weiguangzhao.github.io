@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74f3d9b6-94ae-4b0c-a2c1-27ec59c0003c" name="Default Changelist" comment="add review service">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="74f3d9b6-94ae-4b0c-a2c1-27ec59c0003c" name="Default Changelist" comment="update mapmyvisitors">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,13 +134,7 @@
       <workItem from="1728735681003" duration="55000" />
       <workItem from="1732240855279" duration="3773000" />
       <workItem from="1732452638647" duration="567000" />
-    </task>
-    <task id="LOCAL-00007" summary="University of Liverpool">
-      <created>1635404717626</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1635404717626</updated>
+      <workItem from="1732592597556" duration="348000" />
     </task>
     <task id="LOCAL-00008" summary="add project image">
       <created>1635412275118</created>
@@ -478,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732241806161</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="update mapmyvisitors">
+      <created>1732592788708</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1732592788708</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,7 +540,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix error: time" />
     <MESSAGE value="add 1st pace on scannetv2 challenge" />
     <MESSAGE value="add application video of PBNet" />
     <MESSAGE value="add MVFNet" />
@@ -564,7 +564,8 @@
     <MESSAGE value="add review service of icra" />
     <MESSAGE value="add NN'24" />
     <MESSAGE value="add review service" />
-    <option name="LAST_COMMIT_MESSAGE" value="add review service" />
+    <MESSAGE value="update mapmyvisitors" />
+    <option name="LAST_COMMIT_MESSAGE" value="update mapmyvisitors" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
