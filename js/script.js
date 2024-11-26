@@ -4,6 +4,7 @@ $("#bio").show();
 $("#pub").show();
 $("#pat").show();
 $("#ser").show();
+$("#pro").show();
 
 
 $("#homeButton").click(function () {
@@ -11,6 +12,7 @@ $("#homeButton").click(function () {
     $("#pub").show();
     $("#pat").show();
     $("#ser").show();
+    $("#pro").show();
 });
 
 $("#bioButton").click(function () {
@@ -18,6 +20,7 @@ $("#bioButton").click(function () {
     $("#pub").hide();
     $("#pat").hide();
     $("#ser").hide();
+    $("#pro").hide();
 });
 
 $("#pubButton").click(function () {
@@ -25,6 +28,7 @@ $("#pubButton").click(function () {
     $("#pub").show();
     $("#pat").hide();
     $("#ser").hide();
+    $("#pro").hide();
 });
 
 $("#patButton").click(function () {
@@ -32,6 +36,7 @@ $("#patButton").click(function () {
     $("#pub").hide();
     $("#pat").show();
     $("#ser").hide();
+    $("#pro").hide();
 });
 
 $("#serButton").click(function () {
@@ -39,6 +44,15 @@ $("#serButton").click(function () {
     $("#pub").hide();
     $("#pat").hide();
     $("#ser").show();
+    $("#pro").hide();
+});
+
+$("#proButton").click(function () {
+    $("#bio").hide();
+    $("#pub").hide();
+    $("#pat").hide();
+    $("#ser").hide();
+    $("#pro").show();
 });
 
 
