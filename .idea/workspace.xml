@@ -134,14 +134,7 @@
       <workItem from="1728735681003" duration="55000" />
       <workItem from="1732240855279" duration="3773000" />
       <workItem from="1732452638647" duration="567000" />
-      <workItem from="1732592597556" duration="348000" />
-    </task>
-    <task id="LOCAL-00008" summary="add project image">
-      <created>1635412275118</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1635412275118</updated>
+      <workItem from="1732592597556" duration="492000" />
     </task>
     <task id="LOCAL-00009" summary="add project 3d face">
       <created>1635412873708</created>
@@ -479,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732592788708</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="update mapmyvisitors">
+      <created>1732592976329</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1732592976329</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
