@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74f3d9b6-94ae-4b0c-a2c1-27ec59c0003c" name="Default Changelist" comment="update mapmyvisitors">
+    <list default="true" id="74f3d9b6-94ae-4b0c-a2c1-27ec59c0003c" name="Default Changelist" comment="update review">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../compare/10_200_13_85/PointCloudPDF" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
@@ -134,84 +135,22 @@
       <workItem from="1728735681003" duration="55000" />
       <workItem from="1732240855279" duration="3773000" />
       <workItem from="1732452638647" duration="567000" />
-      <workItem from="1732592597556" duration="492000" />
-    </task>
-    <task id="LOCAL-00009" summary="add project 3d face">
-      <created>1635412873708</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1635412873708</updated>
-    </task>
-    <task id="LOCAL-00010" summary="change height">
-      <created>1635718204933</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1635718204933</updated>
-    </task>
-    <task id="LOCAL-00011" summary="add bachelor degree and earth map">
-      <created>1636558918256</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1636558918256</updated>
-    </task>
-    <task id="LOCAL-00012" summary="change width">
-      <created>1636559566252</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1636559566252</updated>
-    </task>
-    <task id="LOCAL-00013" summary="change width">
-      <created>1636559677716</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1636559677716</updated>
-    </task>
-    <task id="LOCAL-00014" summary="change width">
-      <created>1636559766332</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1636559766332</updated>
-    </task>
-    <task id="LOCAL-00015" summary="change map size">
-      <created>1636559978572</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1636559978572</updated>
-    </task>
-    <task id="LOCAL-00016" summary="add code link">
-      <created>1636634622129</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1636634622129</updated>
-    </task>
-    <task id="LOCAL-00017" summary="add Dku">
-      <created>1661500753769</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1661500753769</updated>
-    </task>
-    <task id="LOCAL-00018" summary="add pbnet">
-      <created>1661502623991</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1661502623991</updated>
-    </task>
-    <task id="LOCAL-00019" summary="add cvpr2023 submitted">
-      <created>1668989307237</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1668989307237</updated>
+      <workItem from="1732592597556" duration="1225000" />
+      <workItem from="1732604515486" duration="10497000" />
+      <workItem from="1732632340398" duration="4517000" />
+      <workItem from="1732699253691" duration="601000" />
+      <workItem from="1732775888680" duration="342000" />
+      <workItem from="1733209259894" duration="1401000" />
+      <workItem from="1734365232260" duration="225000" />
+      <workItem from="1734523151030" duration="1466000" />
+      <workItem from="1735137338225" duration="1424000" />
+      <workItem from="1735393180508" duration="124000" />
+      <workItem from="1735460548525" duration="1379000" />
+      <workItem from="1735472674515" duration="7000" />
+      <workItem from="1735484001878" duration="7000" />
+      <workItem from="1735484912930" duration="668000" />
+      <workItem from="1735488893070" duration="9000" />
+      <workItem from="1735801659398" duration="537000" />
     </task>
     <task id="LOCAL-00020" summary="add Cognitive Computation">
       <created>1668993241582</created>
@@ -479,7 +418,84 @@
       <option name="project" value="LOCAL" />
       <updated>1732592976329</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="update mapmyvisitors">
+      <created>1732593115474</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1732593115474</updated>
+    </task>
+    <task id="LOCAL-00059" summary="update clustermaps">
+      <created>1732593699949</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1732593699949</updated>
+    </task>
+    <task id="LOCAL-00060" summary="add robotics">
+      <created>1732631610430</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1732631610430</updated>
+    </task>
+    <task id="LOCAL-00061" summary="add Research interests">
+      <created>1732632645892</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1732632645892</updated>
+    </task>
+    <task id="LOCAL-00062" summary="update preprints">
+      <created>1732637301536</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1732637301536</updated>
+    </task>
+    <task id="LOCAL-00063" summary="update published">
+      <created>1732637818211</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1732637818211</updated>
+    </task>
+    <task id="LOCAL-00064" summary="update published">
+      <created>1732775975675</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1732775975675</updated>
+    </task>
+    <task id="LOCAL-00065" summary="update png">
+      <created>1733210611414</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1733210611415</updated>
+    </task>
+    <task id="LOCAL-00066" summary="remove clustermap">
+      <created>1734365273001</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1734365273001</updated>
+    </task>
+    <task id="LOCAL-00067" summary="update arXiv">
+      <created>1734523359797</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1734523359797</updated>
+    </task>
+    <task id="LOCAL-00068" summary="update review">
+      <created>1735138434633</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1735138434633</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -540,15 +556,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 1st pace on scannetv2 challenge" />
-    <MESSAGE value="add application video of PBNet" />
-    <MESSAGE value="add MVFNet" />
-    <MESSAGE value="add TCSVT review service" />
-    <MESSAGE value="add ICCV2023" />
-    <MESSAGE value="Ph.D." />
-    <MESSAGE value="add patents" />
-    <MESSAGE value="update link" />
-    <MESSAGE value="add pat" />
     <MESSAGE value="add video" />
     <MESSAGE value="add NN" />
     <MESSAGE value="New style" />
@@ -565,7 +572,16 @@
     <MESSAGE value="add NN'24" />
     <MESSAGE value="add review service" />
     <MESSAGE value="update mapmyvisitors" />
-    <option name="LAST_COMMIT_MESSAGE" value="update mapmyvisitors" />
+    <MESSAGE value="update clustermaps" />
+    <MESSAGE value="add robotics" />
+    <MESSAGE value="add Research interests" />
+    <MESSAGE value="update preprints" />
+    <MESSAGE value="update published" />
+    <MESSAGE value="update png" />
+    <MESSAGE value="remove clustermap" />
+    <MESSAGE value="update arXiv" />
+    <MESSAGE value="update review" />
+    <option name="LAST_COMMIT_MESSAGE" value="update review" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
