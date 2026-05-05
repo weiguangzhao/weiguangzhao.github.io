@@ -121,6 +121,14 @@ mark {
 	padding: 0.2em 1em 0.5em 1em;
 }
 
+/* Kill default heading/paragraph top margin inside Biography (avoids local vs cached-online mismatch) */
+#bio .biography-panel h3:first-of-type {
+	margin-top: 0;
+}
+#bio .biography-panel h3:first-of-type p {
+	margin-top: 0;
+}
+
 .publication h4 .pub-venue-line {
 	display: flex;
 	justify-content: space-between;
