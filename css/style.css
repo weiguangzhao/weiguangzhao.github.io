@@ -76,7 +76,7 @@ mark {
 	border: 1px hidden #000;
 	/* border: none; */
 	text-align: center;
-	padding: 1em 1em 1em 1em; /* top, right, bottom, left */
+	padding: 0.5em 1em; /* top/bottom halved vs 1em; left/right unchanged */
 	color: #4d4b59;
 	background: #FFFFFF;
 }
@@ -88,22 +88,76 @@ mark {
 	border: 1px hidden #000;
 	/* border: none; */
 	text-align: left;
-	padding: 1em 1em 1em 1em; /* top, right, bottom, left */
+	padding: 0.5em 1em;
 	color: #4d4b59;
 	background: #FFFFFF;
 }
 
 
-.publication {
-	width: 900px;
+.publication,
+.biography-panel {
+	width: 950px;
 	min-height: 20px;
 	margin: 0 auto; /* top and bottom, right and left */
 	/*border: 1px solid #000;*/
 	border: none;
 	text-align: left;
-	padding: 1em 1em 1em 1em; /* top, right, bottom, left */
+	padding: 0.5em 1em; /* top/bottom half of former 1em */
 	color: #4d4b59;
 	background: #FFFFFF;
+}
+
+/* Biography / Publications / Robotics: same heading rhythm (avoid extra <p> margins on titles) */
+#bio > h2 {
+	margin: 0.2em 0 0.08em 0;
+}
+#pub > h2,
+#pro > h2 {
+	margin: 0.2em 0 0.4em 0;
+}
+
+/* Biography: less gap between title and body (Patents/Service use default .biography-panel padding) */
+#bio .biography-panel {
+	padding: 0.2em 1em 0.5em 1em;
+}
+
+.publication h4 .pub-venue-line {
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+	gap: 1em;
+	width: 100%;
+	box-sizing: border-box;
+}
+.publication h4 .pub-venue-line > .pub-venue {
+	flex: 1 1 auto;
+	min-width: 0;
+	text-align: left;
+}
+.publication h4 .pub-venue-line > .pub-tier {
+	flex: 0 0 auto;
+	white-space: nowrap;
+	text-align: right;
+}
+
+/* Thumb + text: left column width = thumb (32% was ~320px and left empty space); right column fills */
+.publication table {
+	border-collapse: collapse;
+	table-layout: fixed;
+	width: 100%;
+}
+.publication table td {
+	vertical-align: top;
+}
+.publication table td:first-child {
+	width: 270px !important;
+	max-width: 270px !important;
+	padding: 3px 0 !important;
+	box-sizing: content-box;
+}
+.publication table td:nth-child(2) {
+	width: auto !important;
+	padding: 3px 0 3px 12px !important;
 }
 
 
